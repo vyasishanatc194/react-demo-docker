@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #FAFAFA;
+  overflow-x: hidden;
+}
+
+.kep-login-facebook {
+  padding: 12px 12px !important;
+}
+
+/* Safari 9+ */
+@supports (-webkit-marquee-repetition:infinite) and (object-fit:fill) {
+  html, body {
+    position: relative;
+    overflow-x: hidden;
+  }
+}
+
+/* Remove button outline universally */
+button {
+  outline: none !important;
+}
+
+button:focus {
+  outline: none !important;
+}

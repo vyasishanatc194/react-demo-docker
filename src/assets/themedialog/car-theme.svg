@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 104 104">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #086ca0;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-path" transform="translate(0)">
+      <rect class="cls-1" width="104" height="104"/>
+    </clipPath>
+  </defs>
+  <title>icon circ mobilitaet</title>
+  <g id="Ebene_2" data-name="Ebene 2">
+    <g id="Ebene_1-2" data-name="Ebene 1">
+      <g class="cls-2">
+        <g id="Oval-5">
+          <g id="Gruppe_935" data-name="Gruppe 935">
+            <path id="Pfad_876" data-name="Pfad 876" class="cls-3" d="M52,104a52,52,0,0,0,52-52h0A52,52,0,0,0,52,0h0a52,52,0,0,0,0,104" transform="translate(0)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Gruppe_936" data-name="Gruppe 936">
+        <g id="Gruppe_921" data-name="Gruppe 921">
+          <path id="Pfad_865" data-name="Pfad 865" class="cls-4" d="M29.89,80a2,2,0,0,1-1.41-3.42l8-8a2,2,0,0,1,2.83,2.83l-8,8A2,2,0,0,1,29.89,80Z" transform="translate(0)"/>
+          <path id="Pfad_866" data-name="Pfad 866" class="cls-4" d="M73.9,80a2,2,0,0,1-1.42-.58l-8-8a2,2,0,0,1,2.83-2.83l8,8A2,2,0,0,1,73.9,80Z" transform="translate(0)"/>
+          <path id="Pfad_867" data-name="Pfad 867" class="cls-4" d="M65.9,72h-28A10.07,10.07,0,0,1,28,60.66l4-29.73A8,8,0,0,1,39.9,24h24a8,8,0,0,1,7.92,6.93l4,29.73a10,10,0,0,1-8.57,11.25A10.2,10.2,0,0,1,65.9,72Zm-26-44a4,4,0,0,0-4,3.46l-4,29.74a5.29,5.29,0,0,0-.05.8,6,6,0,0,0,6,6h28a6,6,0,0,0,6-6h0a5.29,5.29,0,0,0,0-.8l-4-29.74a4,4,0,0,0-4-3.46Z" transform="translate(0)"/>
+          <path id="Pfad_868" data-name="Pfad 868" class="cls-4" d="M42,64a2,2,0,1,1,0-4h0a2,2,0,1,1,0,4Z" transform="translate(0)"/>
+          <path id="Pfad_869" data-name="Pfad 869" class="cls-4" d="M62,64a2,2,0,1,1,0-4h0a2,2,0,0,1,0,4Z" transform="translate(0)"/>
+          <path id="Pfad_870" data-name="Pfad 870" class="cls-4" d="M72.89,56h-42a2,2,0,0,1,0-4h42a2,2,0,0,1,0,4Z" transform="translate(0)"/>
+          <path id="Pfad_871" data-name="Pfad 871" class="cls-4" d="M70.21,36H33.58a2,2,0,0,1,0-4H70.22a2,2,0,0,1,0,4Z" transform="translate(0)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

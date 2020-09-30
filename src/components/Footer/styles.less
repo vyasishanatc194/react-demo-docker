@@ -1,0 +1,65 @@
+@import '~LessConstants';
+
+.footer-container {
+  position: relative;
+
+  .sponsors {
+    display: flex;
+    flex-direction: column;
+    max-width: 1000px;
+    background-color: @cloud-white;
+    margin: auto auto auto 5.8%;
+    margin-bottom: 100px;
+    padding: 0 10%;
+
+    .label {
+      font-size: 16px;
+      font-weight: 100;
+      color: @dim-grey;
+      margin-bottom: 10px;
+    }
+
+    .logo-box-row {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+
+      .spacer {
+        width: 15px;
+      }
+      .partner-logo-spacer {
+        padding: 0px 0px 0px 20px;
+      }
+    }
+  }
+
+  .skyline {
+    width: 100%;
+    margin-bottom: -7px;
+  }
+
+  .bottom-container {
+    background-color: @main-blue;
+    padding: 140px 0 50px 0;
+
+    .links {
+      display: block;
+      color: @white;
+      max-width: 1300px;
+      margin: 0 auto;
+      padding: 0 10%;
+
+      .link {
+        display: inline-block;
+        font-size: 16px;
+        color: @white;
+        font-weight: 500;
+        cursor: pointer;
+
+        &:first-child {
+          margin-right: 10px;
+        }
+      }
+    }
+  }
+}

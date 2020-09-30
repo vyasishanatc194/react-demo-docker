@@ -1,0 +1,66 @@
+@import '~LessConstants';
+
+.ideas-container {
+  width: 100%;
+  font-family: @main-font;
+
+  .user-ideas {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+
+    @media (max-width: 920px) {
+      // one column
+      justify-content: center;
+    }
+
+    @media (min-width: 921px) and (max-width: 1010px) {
+      // two columns
+      justify-content: space-between;
+      width: 725px;
+    }
+
+    @media (min-width: 1011px) and (max-width: 1200px) {
+      // two columns
+      justify-content: space-between;
+      width: 790px;
+    }
+
+    @media (min-width: 1201px) and (max-width: 1500px) {
+      // two columns
+      justify-content: space-between;
+      width: 900px;
+    }
+
+    @media (min-width: 1501px) {
+      // three columns
+      justify-content: space-between;
+    }
+  }
+
+  .general-message {
+    width: 100%;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 600;
+    color: @night;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 20px 0;
+  }
+
+  .see-more {
+    color: @night;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 0.86;
+    letter-spacing: 2.1px;
+    margin: 10px 0 30px 0;
+
+    &:hover {
+      opacity: 0.8;
+      cursor: pointer;
+    }
+  }
+}

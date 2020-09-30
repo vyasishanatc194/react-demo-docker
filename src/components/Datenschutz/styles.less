@@ -1,0 +1,71 @@
+@import '~LessConstants';
+
+.container {
+  font-family: @main-font;
+  background-color: @white;
+  border-radius: 3px;
+  padding: 20px;
+
+  .content {
+    .line-spacing {
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+
+    h1 {
+      hyphens: auto;
+    }
+
+    h3 {
+      font-size: 21px;
+      color: @stone-grey;
+      hyphens: auto;
+    }
+
+    p {
+      display: block;
+      margin-block-start: 1em;
+      margin-block-end: 1em;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
+      font-size: 14px;
+      line-height: 1.4;
+      letter-spacing: 0.5px;
+      hyphens: auto;
+    }
+
+    a {
+      color: @black;
+      text-decoration: none;
+      padding-bottom: 0.05em;
+      border-bottom-width: 1px;
+      border-bottom-style: solid;
+      border-bottom-color: rgba(27, 27, 27, 0.3);
+    }
+  }
+
+  .etracker-box {
+    display: block;
+    margin-top: 40px;
+
+    a {
+      font-weight: 600;
+      text-decoration: none;
+    }
+
+    span {
+      font-style: italic;
+    }
+
+    .disable-link {
+      font-family: @main-font;
+      color: @night;
+      font-size: 16px;
+      text-decoration: none;
+
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+  }
+}

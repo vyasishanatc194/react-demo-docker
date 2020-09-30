@@ -1,0 +1,88 @@
+@import '~LessConstants';
+
+.login-box {
+  position: relative;
+  width: 300px;
+  background-color: @white;
+  padding: 40px;
+  border-radius: 3px;
+  font-family: @main-font;
+  margin: auto;
+
+  @media screen and (max-width: 451px) {
+    width: auto;
+  }
+
+  .login-icon {
+    display: block;
+    height: 79px;
+    width: 79px;
+    margin: auto;
+  }
+
+  .login-heading {
+    text-align: left;
+    font-family: @main-font;
+    color: @dim-grey;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 16px;
+  }
+
+  input {
+    display: block;
+    height: 40px;
+    width: 100%;
+    outline: none;
+    border: 1px solid @stone-grey;
+    border-radius: 4px;
+    box-shadow: 0 1px @white;
+    box-sizing: border-box;
+    color: @dim-grey;
+    font-size: 16px;
+    margin: 10px auto 0 auto;
+    padding: 5px;
+    transition: box-shadow 0.3s;
+  }
+}
+
+.login-error {
+  height: 15px;
+  font-size: 14px;
+  color: @red;
+  margin: 8px 0 8px 0px;
+}
+
+.button-container {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: center;
+
+  button {
+    outline: none;
+  }
+
+  .button {
+    position: relative;
+    background-color: @main-blue;
+    color: @white;
+    font-family: @main-font;
+    font-size: 14px;
+    outline: none;
+    border-radius: 4px;
+    padding-top: 14px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 14px;
+    text-align: center;
+    width: auto;
+    font-weight: 600;
+    cursor: pointer;
+
+    &:disabled {
+      opacity: 0.4;
+      cursor: default;
+    }
+  }
+}

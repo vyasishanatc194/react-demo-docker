@@ -1,0 +1,62 @@
+@import '~LessConstants';
+
+.admin {
+  background-color: @white;
+  border-radius: 3px;
+  padding: 40px 40px 40px 40px;
+
+  .body {
+    position: relative;
+    font-family: @main-font;
+    color: @dove-grey;
+
+    .title {
+      padding-bottom: 10px;
+      font-family: @main-font;
+      font-weight: 600;
+      color: @night;
+      font-size: 22px;
+    }
+
+    .flagged-threads-table {
+      margin-bottom: 60px;
+    }
+
+    .flags-dropdown {
+      margin-bottom: 20px;
+    }
+
+    table {
+      width: 100%;
+
+      th {
+        text-transform: uppercase;
+        font-weight: 600;
+        text-align: center;
+        padding: 10px;
+      }
+
+      td {
+        vertical-align: top;
+        font-weight: 400;
+        padding: 10px;
+      }
+    }
+
+    table,
+    th,
+    td {
+      border: 1px solid @dove-grey;
+      border-collapse: collapse;
+    }
+  }
+
+  .access-denied {
+    font-family: @main-font;
+    color: @dove-grey;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    padding-top: 20%;
+  }
+}

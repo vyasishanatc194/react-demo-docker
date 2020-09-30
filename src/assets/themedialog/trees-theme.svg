@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 104 104">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #086ca0;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-path" transform="translate(0)">
+      <rect class="cls-1" width="104" height="104"/>
+    </clipPath>
+  </defs>
+  <title>icon circ umwelt</title>
+  <g id="Ebene_2" data-name="Ebene 2">
+    <g id="Ebene_1-2" data-name="Ebene 1">
+      <g class="cls-2">
+        <g id="Oval-4">
+          <g id="Gruppe_933" data-name="Gruppe 933">
+            <path id="Pfad_874" data-name="Pfad 874" class="cls-3" d="M52,104a52,52,0,0,0,52-52h0A52,52,0,0,0,52,0h0a52,52,0,0,0,0,104" transform="translate(0)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Gruppe_934" data-name="Gruppe 934">
+        <g id="Gruppe_855" data-name="Gruppe 855">
+          <path id="Pfad_746" data-name="Pfad 746" class="cls-4" d="M45.72,75.93h0a32,32,0,0,1-13.53-3,2.26,2.26,0,0,1-1.1-1.1,31.91,31.91,0,0,1,6.28-36,31.57,31.57,0,0,1,22.45-9.28,32.09,32.09,0,0,1,13.53,3,2.3,2.3,0,0,1,1.11,1.11A31.77,31.77,0,0,1,45.73,75.94ZM34.9,69.1a27.4,27.4,0,0,0,10.82,2.23h0a27,27,0,0,0,19.2-7.94,27.28,27.28,0,0,0,5.71-30,27.48,27.48,0,0,0-10.81-2.22,26.89,26.89,0,0,0-19.19,8,27.27,27.27,0,0,0-5.73,30Z" transform="translate(0)"/>
+        </g>
+        <g id="Gruppe_856" data-name="Gruppe 856">
+          <path id="Pfad_747" data-name="Pfad 747" class="cls-4" d="M34.35,70.81a1.15,1.15,0,0,1-.82-2l38-38a1.15,1.15,0,0,1,1.63,1.63l-38,38a1.13,1.13,0,0,1-.81.34Z" transform="translate(0)"/>
+        </g>
+        <g id="Gruppe_857" data-name="Gruppe 857">
+          <path id="Pfad_748" data-name="Pfad 748" class="cls-4" d="M28.86,77.45a2.3,2.3,0,0,1-1.63-3.92l4.23-4.23a2.3,2.3,0,1,1,3.36,3.14l-.12.11-4.22,4.22A2.25,2.25,0,0,1,28.86,77.45Z" transform="translate(0)"/>
+        </g>
+        <g id="Gruppe_862" data-name="Gruppe 862">
+          <g id="Gruppe_858" data-name="Gruppe 858">
+            <path id="Pfad_749" data-name="Pfad 749" class="cls-4" d="M72.65,52.15H72.6l-17.82-.82a1.13,1.13,0,0,1-1.09-1.18v0A1.09,1.09,0,0,1,54.77,49h.12l17.81.81a1.15,1.15,0,1,1,0,2.3Z" transform="translate(0)"/>
+          </g>
+          <g id="Gruppe_859" data-name="Gruppe 859">
+            <path id="Pfad_750" data-name="Pfad 750" class="cls-4" d="M66.32,63.34h-.06l-22.63-1a1.15,1.15,0,1,1,.11-2.3l22.62,1a1.15,1.15,0,0,1,0,2.3Z" transform="translate(0)"/>
+          </g>
+          <g id="Gruppe_860" data-name="Gruppe 860">
+            <path id="Pfad_751" data-name="Pfad 751" class="cls-4" d="M53.82,50.33a1.15,1.15,0,0,1-1.15-1.1l-.8-17.82a1.13,1.13,0,0,1,1.07-1.2H53a1.16,1.16,0,0,1,1.17,1.1L55,49.13a1.15,1.15,0,0,1-1.1,1.2h0Z" transform="translate(0)"/>
+          </g>
+          <g id="Gruppe_861" data-name="Gruppe 861">
+            <path id="Pfad_752" data-name="Pfad 752" class="cls-4" d="M42.84,61.47a1.16,1.16,0,0,1-1.15-1.1l-1-22.63a1.15,1.15,0,0,1,1.1-1.2h0A1.15,1.15,0,0,1,43,37.64l1,22.63a1.15,1.15,0,0,1-1.08,1.2h-.07Z" transform="translate(0)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

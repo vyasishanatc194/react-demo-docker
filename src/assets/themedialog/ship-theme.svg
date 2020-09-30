@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 104 104">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #086ca0;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 5px;
+      }
+
+      .cls-3 {
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <title>icon circ wirtschaft</title>
+  <g id="Ebene_2" data-name="Ebene 2">
+    <g id="Ebene_1-2" data-name="Ebene 1">
+      <g id="Gruppe_951" data-name="Gruppe 951">
+        <g id="Gruppe_951-2" data-name="Gruppe 951-2">
+          <path id="Pfad_883" data-name="Pfad 883" class="cls-1" d="M52,0A52,52,0,0,0,16.78,90.24L25.29,66.6l7.64,2.75L23.51,95.49a51.94,51.94,0,0,0,57,0L71.41,70.12l7.64-2.75L87.27,90.2A52,52,0,0,0,52,0Z"/>
+          <path id="Pfad_884" data-name="Pfad 884" class="cls-2" d="M66.88,58.25,80.54,95.47a53.41,53.41,0,0,0,6.73-5.26L74.51,55.51Z"/>
+          <path id="Pfad_885" data-name="Pfad 885" class="cls-2" d="M37.89,57.06l-7.64-2.75L16.78,90.24a51.82,51.82,0,0,0,6.73,5.26Z"/>
+        </g>
+        <line id="Linie_100" data-name="Linie 100" class="cls-3" x1="33.5" y1="56" x2="70.5" y2="56"/>
+        <line id="Linie_101" data-name="Linie 101" class="cls-4" x1="20.5" y1="27" x2="84.5" y2="27"/>
+        <line id="Linie_102" data-name="Linie 102" class="cls-3" x1="33.5" y1="56" x2="33.5" y2="27"/>
+        <line id="Linie_103" data-name="Linie 103" class="cls-3" x1="70.5" y1="56" x2="70.5" y2="27"/>
+        <g id="Gruppe_908" data-name="Gruppe 908">
+          <g id="Gruppe_905" data-name="Gruppe 905">
+            <path id="Pfad_850" data-name="Pfad 850" class="cls-2" d="M61.38,46.13c.64-.64,1.51-.79,2-.34L81.1,63.56c.45.44.3,1.32-.34,2a1.46,1.46,0,0,1-2,.35L61,48.1a1.45,1.45,0,0,1,.35-2Z"/>
+            <path id="Pfad_851" data-name="Pfad 851" class="cls-2" d="M60.62,64,79.21,45.38a1.72,1.72,0,0,1,2.31,2.31L62.93,66.28A1.72,1.72,0,0,1,60.62,64Z"/>
+            <path id="Pfad_852" data-name="Pfad 852" class="cls-2" d="M70.25,42.31a1.16,1.16,0,0,1,1.64,0,1.23,1.23,0,0,1,.34.81V68.53a1.16,1.16,0,0,1-2.31,0V43.12a1.13,1.13,0,0,1,.34-.81Z"/>
+            <path id="Pfad_853" data-name="Pfad 853" class="cls-2" d="M56.86,55a1.17,1.17,0,0,1,.86-.35h26.7A1.21,1.21,0,1,1,84.49,57H57.72A1.22,1.22,0,0,1,56.86,55Z"/>
+            <path id="Pfad_854" data-name="Pfad 854" class="cls-2" d="M60.41,45.27a15.08,15.08,0,1,1,0,21.32,15.07,15.07,0,0,1,0-21.32Zm19,19a11.81,11.81,0,1,0-16.7,0h0A11.83,11.83,0,0,0,79.42,64.28Z"/>
+          </g>
+          <g id="Gruppe_907" data-name="Gruppe 907">
+            <path id="Pfad_850-2" data-name="Pfad 850-2" class="cls-2" d="M24.38,46.13c.64-.64,1.51-.79,2-.34L44.1,63.56c.45.44.3,1.32-.34,2a1.46,1.46,0,0,1-2,.35L24,48.1a1.45,1.45,0,0,1,.35-2Z"/>
+            <path id="Pfad_851-2" data-name="Pfad 851-2" class="cls-2" d="M23.62,64,42.21,45.38a1.72,1.72,0,0,1,2.31,2.31L25.93,66.28A1.72,1.72,0,0,1,23.62,64Z"/>
+            <path id="Pfad_852-2" data-name="Pfad 852-2" class="cls-2" d="M33.25,42.31a1.16,1.16,0,0,1,1.64,0,1.23,1.23,0,0,1,.34.81V68.53a1.16,1.16,0,0,1-2.31,0V43.12a1.13,1.13,0,0,1,.34-.81Z"/>
+            <path id="Pfad_853-2" data-name="Pfad 853-2" class="cls-2" d="M19.86,55a1.17,1.17,0,0,1,.86-.35h26.7A1.21,1.21,0,1,1,47.49,57H20.72A1.22,1.22,0,0,1,19.86,55Z"/>
+            <path id="Pfad_854-2" data-name="Pfad 854-2" class="cls-2" d="M23.41,45.27a15.08,15.08,0,1,1,0,21.32,15.07,15.07,0,0,1,0-21.32Zm19,19a11.81,11.81,0,1,0-16.7,0h0a11.83,11.83,0,0,0,16.7,0Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

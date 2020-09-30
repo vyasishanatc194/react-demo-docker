@@ -1,0 +1,192 @@
+@import "~LessConstants";
+
+.choice-box {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: @white;
+  border-radius: 3px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+  border: 1px solid #004e80;
+  height: auto;
+  margin: auto;
+
+  @media (max-width: 1150px) {
+    max-width: 90%;
+    padding: 70px 20px 20px 20px;
+    margin-bottom: -340px;
+    z-index: 9;
+  }
+
+  @media (min-width: 1151px) {
+    width: 900px;
+    padding: 70px 50px;
+    margin-bottom: -340px;
+    z-index: 9;
+  }
+  .box-circle {
+    position: absolute;
+    top: -62px;
+    left: ~"calc(50% - 76px)";
+    height: 152px;
+    width: 152px;
+    border-radius: 50%;
+    background-color: @white;
+
+    .red-circle {
+      position: relative;
+      position: absolute;
+      top: 14px;
+      left: 14px;
+      height: 124px;
+      width: 124px;
+      border-radius: 50%;
+      background-color: @secondary-blue;
+
+      img {
+        width: 81px;
+        position: absolute;
+        top: 22px;
+        left: 22px;
+      }
+    }
+  }
+  .heading {
+    font-size: 38px;
+    font-weight: 400;
+    color: @black;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    z-index: 5;
+
+    @media (max-width: 1150px) {
+      font-size: 34px;
+    }
+
+    @media (min-width: 1151px) {
+      font-size: 38px;
+    }
+  }
+  .parent-container {
+    width: 100%;
+    .left-container {
+      @media (max-width: 1150px) {
+        display: block;
+        margin-bottom: 20px;
+      }
+
+      @media (min-width: 1151px) {
+        display: inline-block;
+        vertical-align: top;
+        width: 65%;
+      }
+      .header {
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 31px;
+        color: @night;
+        text-align: left;
+        margin-bottom: 30px;
+      }
+      .step-box {
+        margin-bottom: 27px;
+        .circle {
+          position: relative;
+          display: inline-block;
+          vertical-align: top;
+          border-radius: 50%;
+          background-color: @main-blue;
+          margin-right: 17px;
+
+          span {
+            display: block;
+            color: @white;
+            font-weight: 600;
+            padding: 12px 18px;
+          }
+        }
+        .text {
+          display: inline-block;
+          vertical-align: top;
+          font-size: 18px;
+          color: @night;
+          line-height: 1.72;
+          max-width: ~"calc(100% - 68px)";
+        }
+      }
+      .bottom-text {
+        font-size: 18px;
+        color: @night;
+        line-height: 1.72;
+      }
+    } 
+    .right-container {
+
+      @media (max-width: 1150px) {
+        display: block;
+      }
+
+      @media (min-width: 1151px) {
+        display: inline-block;
+        width: 37%;
+        padding: 80px 0 0 0;
+        margin-right: -20px;
+      }
+      .continue-button {
+        border-radius: 5px;
+        border: 0;
+        background-color: @main-blue;
+        font-size: 20px;
+        font-weight: 400;
+        color: @white;
+        text-align: center;
+        cursor: pointer;
+
+        @media (max-width: 1150px) {
+          width: 90%;
+          max-width: 200px;
+          padding: 10px 20px;
+          margin: 40px auto 0 auto;
+        }
+
+        @media (min-width: 1151px) {
+          width: 100%;
+          max-width: 300px;
+          padding: 16px 0;
+          margin: 70px auto 0 auto;
+        }
+      }
+      .back-button {
+        background-color: @white;
+        font-size: 16px;
+        font-weight: 400;
+        color: @black;
+        text-align: center;
+        margin-top: 20px;
+        cursor: pointer;
+      }
+
+      .supported-by {
+        font-size: 16px;
+        font-weight: 100;
+        color: @stone-grey;
+        text-align: center;
+        margin: 15px 0 10px 0;
+      }
+      .voodle-logo {
+        display: block;
+        margin: auto;
+      }
+        
+    }
+    .error-message {
+      font-family: @main-font;
+      font-size: 18px;
+      color: @red;
+      padding: 10px 0px 0px 0px;
+    }
+  }
+}

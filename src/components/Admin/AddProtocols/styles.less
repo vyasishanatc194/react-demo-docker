@@ -1,0 +1,106 @@
+@import '~LessConstants';
+
+.container {
+  width: 100%;
+  background-color: @white;
+  font-family: @main-font;
+  box-sizing: border-box;
+  border-radius: 3px;
+  padding: 20px;
+
+  .center-800 {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .title {
+    padding-bottom: 10px;
+    font-family: @main-font;
+    font-weight: 600;
+    color: @night;
+    font-size: 22px;
+    @media only screen and (max-width: 767px) {
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+  }
+
+  .field-label {
+    padding-top: 10px;
+    padding-left: 0px;
+    text-align: left;
+    font-family: @main-font;
+    font-weight: 500;
+    color: @night;
+    font-size: 18px;
+    @media only screen and (max-width: 767px) {
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+  }
+
+  .select-field-container {
+    padding: 10px 0 0 0;
+    select {
+      background: url(/assets/arrow-down-icon.svg) 98% 18px no-repeat;
+      background-size: 16px;
+    }
+  }
+  .text-field-container {
+    padding: 10px 18px 0px 0px;
+  }
+  .field-row-content {
+    .field-row {
+      display: flex;
+      margin-left: -12px;
+      margin-right: -12px;
+      margin-top: 5px;
+      .field-75 {
+        flex: 0 0 75%;
+        max-width: 75%;
+        padding-left: 11px;
+        padding-right: 45px;
+        position: relative;
+        width: 75%;
+        min-height: 1px;
+        box-sizing: inherit;
+        color: @main-blue;
+        cursor: pointer;
+      }
+      .field-25 {
+        margin: 0px 0px 0px -10px;
+        button {
+          width: 150px;
+          height: 45px;
+          background-color: #0c6ca0;
+          cursor: pointer;
+        }
+      }
+    }
+    @media screen and (max-width: 800px) {
+      .field-row {
+        display: block;
+        margin-left: -10px;
+        .field-25 {
+          margin: 5px 0px 0px 10px;
+        }
+      }
+    }
+  }
+  
+  .message {
+    min-height: 16px;
+    font-family: @main-font;
+    font-size: 14px;
+    color: @red;
+    padding: 5px 0px 0 0px;
+
+    .error {
+      color: @red;
+    }
+
+    .success {
+      color: @main-blue;
+    }
+  }
+}

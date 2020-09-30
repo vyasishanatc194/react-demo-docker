@@ -1,0 +1,123 @@
+@import '~LessConstants';
+
+.container {
+  width: 100%;
+  background-color: @white;
+  font-family: @main-font;
+  box-sizing: border-box;
+  border-radius: 3px;
+  padding: 20px;
+
+  .center-800 {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .title {
+    font-family: @main-font;
+    font-weight: 600;
+    color: @black;
+    font-size: 22px;
+    padding-left: 35px;
+
+    @media only screen and (max-width: 767px) {
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+  }
+
+  .pad-top-md {
+    padding-top: 15px;
+  }
+
+  .pad-top-sm {
+    padding-top: 10px;
+  }
+
+  .field-container {
+    display: flex;
+    flex-flow: row nowrap;
+    padding-left: 35px;
+    padding-right: 35px;
+
+    select::-ms-expand {
+      display: none;
+    }
+
+    @media screen and (max-width: 767px) {
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+
+    &.mobile {
+      height: 100px;
+      display: flex;
+      flex-flow: column;
+    }
+  }
+
+  .heading-template {
+    font-family: @main-font;
+    color: @black;
+    font-size: 14px;
+    padding-left: 35px;
+
+    @media screen and (max-width: 767px) {
+      padding-left: 20px;
+    }
+  }
+
+  .field-heading {
+    .heading-template;
+    font-weight: 600;
+    padding-top: 20px;
+    padding-bottom: 5px;
+
+    &.mobile {
+      height: 30px;
+    }
+  }
+
+  .required-fields {
+    .heading-template;
+    font-weight: 400;
+    margin: 10px 0;
+  }
+
+  .message {
+    min-height: 16px;
+    font-family: @main-font;
+    font-size: 14px;
+    color: @red;
+    padding: 5px 0 0 35px;
+
+    .error {
+      color: @red;
+    }
+
+    .success {
+      color: @main-blue;
+    }
+
+    @media screen and (max-width: 767px) {
+      padding-left: 20px;
+    }
+  }
+
+  .button-container {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    margin: 5px auto 0 auto;
+
+    .button {
+      margin-top: 5px;
+      margin-bottom: 5px;
+
+      &:first-child {
+        margin-right: 10px;
+      }
+    }
+  }
+}

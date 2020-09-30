@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_257" data-name="Group 257" transform="translate(14.149 7)">
+    <g id="Symbol_96_8" data-name="Symbol 96 – 8" transform="translate(-887 -556)">
+      <g id="Group_5" data-name="Group 5" transform="translate(-7 -8)">
+        <path id="Path_201" data-name="Path 201" d="M15,0A15,15,0,1,1,0,15,15.285,15.285,0,0,1,4.393,4.393,14.634,14.634,0,0,1,15,0Z" transform="translate(879.851 557)" fill="#1B1B1B"/>
+      </g>
+    </g>
+    <g id="Group_116" data-name="Group 116" transform="translate(-795.991 -549.375)">
+      <g id="Group_115" data-name="Group 115" transform="matrix(0.996, 0.087, -0.087, 0.996, 789.639, 549.745)">
+        <g id="Group_114" data-name="Group 114" transform="translate(0 0)">
+          <path id="Path_235" data-name="Path 235" d="M0,8.087V.233A.233.233,0,0,1,.233,0H4.172A.233.233,0,0,1,4.4.233V8.087a.233.233,0,0,1-.233.233H.233A.22.22,0,0,1,0,8.087Z" transform="translate(0 0.816)" fill="#fafafa"/>
+          <path id="Path_236" data-name="Path 236" d="M10.465,6.5h0l-.093-2.028c0-.023-.513-2.1-.513-2.1L9.532.956A1.22,1.22,0,0,0,8.344,0H3.5A.35.35,0,0,0,3.24.093L1.352,1.538c-.047.023-.07.047-.116.047H.21a.209.209,0,0,0-.21.21V7.948a.209.209,0,0,0,.21.209H.536a.2.2,0,0,1,.186.14A4.551,4.551,0,0,0,3.1,11.211l.07.07a16.214,16.214,0,0,1,1.562,2.773.438.438,0,0,0,.466.256A1.705,1.705,0,0,0,6.479,13.4c.466-.956-.07-2.331-.746-3.822a.215.215,0,0,1,.163-.3l.4-.046h0l2.61.21h0a1.371,1.371,0,0,0,1.4-1.212Z" transform="translate(5.104 0)" fill="#fafafa"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

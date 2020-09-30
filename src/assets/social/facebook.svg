@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.53" height="20.53" viewBox="0 0 20.53 20.53">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:#fff}.cls-2{fill-rule:evenodd}
+        </style>
+    </defs>
+    <g id="Group_271" data-name="Group 271" transform="translate(-35.636 -42.888)">
+        <path id="Path_364" d="M45.9 42.888a10.266 10.266 0 1 1-7.258 3.007 10.227 10.227 0 0 1 7.258-3.007zm6.7 3.575a9.475 9.475 0 1 0 2.768 6.69 9.457 9.457 0 0 0-2.768-6.69z" class="cls-1" data-name="Path 364"/>
+        <path id="Path_365" d="M76.414 70.436v-.88c0-.422.254-.523.438-.523h1.12v-1.88H76.43a2.056 2.056 0 0 0-2.1 2.3v.987h-1v2.195h1.006v5.483h2v-5.487h1.477l.065-.862.122-1.333z" class="cls-2" data-name="Path 365" transform="translate(-29.766 -19.478)"/>
+    </g>
+</svg>

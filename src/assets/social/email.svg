@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.53" height="20.53" viewBox="0 0 20.53 20.53">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:#fff}.cls-2{stroke:#fff}
+        </style>
+    </defs>
+    <g id="Group_278" data-name="Group 278" transform="translate(-667.328 -304.969)">
+        <path id="Path_372" d="M675.593 288.969a10.266 10.266 0 1 1-7.258 3.007 10.227 10.227 0 0 1 7.258-3.007zm6.69 3.575a9.454 9.454 0 1 0 2.774 6.69 9.41 9.41 0 0 0-2.774-6.69z" class="cls-1" data-name="Path 372" transform="translate(2 16)"/>
+        <g id="Group_279" data-name="Group 279" transform="translate(667.028 293.269)">
+            <path id="Path_374" d="M15.632 26.034H6.039A.744.744 0 0 1 5.3 25.3v-5.861a.744.744 0 0 1 .739-.739h9.593a.744.744 0 0 1 .739.739V25.3a.753.753 0 0 1-.739.734zm-9.593-7.041a.464.464 0 0 0-.46.46v5.856a.464.464 0 0 0 .46.46h9.593a.464.464 0 0 0 .46-.46v-5.87a.464.464 0 0 0-.46-.46H6.039z" class="cls-2" data-name="Path 374"/>
+            <path id="Path_375" d="M12.987 23.03a.7.7 0 0 1-.432-.139L7.8 19.209 7.967 19l4.755 3.667a.4.4 0 0 0 .516 0L18.007 19l.167.223-4.755 3.653a.711.711 0 0 1-.432.154z" class="cls-2" data-name="Path 375" transform="translate(-2.151 -.258)"/>
+            <path id="Path_376" d="M57.6 43.532l-.07-.056-4.13-3.053.167-.223 4.2 3.109z" class="cls-2" data-name="Path 376" transform="translate(-41.393 -18.502)"/>
+            <path id="Path_377" d="M5.467 43.532l-.167-.223.07-.056L9.5 40.2l.167.223z" class="cls-2" data-name="Path 377" transform="translate(0 -18.502)"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+{
+  "presets": [
+    "env",
+    "react",
+    "stage-0"
+  ],
+  "plugins": [
+    [ "react-css-modules",
+      {
+        "generateScopedName": "[hash:base64:6]",
+        "webpackHotModuleReloading": true,
+        "filetypes": {
+          ".less": {
+              "syntax": "postcss-less"
+          }
+        },
+        "handleMissingStyleName": "warn",
+        "exclude": "node_modules"
+      }
+    ]
+  ]
+}

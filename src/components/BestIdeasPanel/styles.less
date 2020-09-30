@@ -1,0 +1,62 @@
+@import "~LessConstants";
+
+.best-ideas {
+  background-color: @main-blue;
+  padding: 33px 38px;
+
+  .content {
+
+    @media (max-width: 800px) {
+      display: block;
+    }
+
+    @media (min-width: 801px) {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .text1 {
+      flex: 0 1 55%;
+      font-size: 33px;
+      font-weight: bold;
+      line-height: 1;
+      color: @white;
+      text-align: right;
+
+      @media (max-width: 800px) {
+        text-align: left;
+        margin-bottom: 10px;
+      }
+    }
+
+    .text2 {
+      flex: 0 1 25%;
+      font-size: 16px;
+      line-height: 1.13;
+      color: @white;
+
+      @media (max-width: 800px) {
+        margin-bottom: 20px;
+      }
+    }
+
+    .button {
+      flex: 0 1 10%;
+      border-radius: 4px;
+      background-color: @white;
+      color: @main-blue;
+      font-size: 20px;
+      font-weight: bold;
+      text-align: center;
+      padding: 5px 14px;
+      cursor: pointer;
+
+      @media (max-width: 800px) {
+        max-width: 140px;
+        margin: auto;
+      }
+    }
+  }
+
+}
